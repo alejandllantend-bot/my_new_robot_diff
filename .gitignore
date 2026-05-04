@@ -1,0 +1,12 @@
+# Carpetas de compilación de ROS2
+build/
+install/
+log/
+
+# Archivos de Python (si usas scripts de teleop o nodos en Python)
+__pycache__/
+*.pyc
+
+# Archivos de entorno y VS Code
+.vscode/
+.DS_Store
